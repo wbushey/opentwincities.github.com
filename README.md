@@ -2,7 +2,7 @@
 
 Main website for the Open Twin Cities group
 
-## About
+## About Stuff
 
 This site is designed to run on Github (through [Github pages](http://pages.github.com/))
 with [Jekyll](http://jekyllrb.com/).
