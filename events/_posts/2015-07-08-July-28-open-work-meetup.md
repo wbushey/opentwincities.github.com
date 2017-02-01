@@ -2,7 +2,7 @@
 category: Events
 layout: event
 title: July 28th Open Work Meetup
-social_image: "http://opentwincities.org/images/posts/2015/07/MNBikeways.jpg"
+social_image: "http://www.opentwincities.org/images/posts/2015/07/MNBikeways.jpg"
 event_date: 2015-07-28 18:00:00
 rsvp_url: "http://www.meetup.com/OpenTwinCities/events/223586268/"
 venue_name: Hubert H. Humphrey Center 
@@ -34,7 +34,7 @@ We're excited to welcome the Minnesota Bikeways team to the meetup! Join us on
 the 28th to learn more about the Minnesota Bikeways project and where it 
 is heading.
 
-###We're Recording This
+### We're Recording This
 
 Want to see the MN Bikeways talk, but you can't make it to the Humphrey School? 
 Well this month we're trying something again - we're going to record the 

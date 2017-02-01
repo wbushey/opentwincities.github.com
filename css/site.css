@@ -76,6 +76,12 @@ div.highlight{
   padding: 1.25rem;
 }
 
+.caption{
+  text-align: center;
+  font-size: 14px;
+  margin: 0 0 1em 0;
+}
+
 /**
  * Buttons
  */
@@ -416,14 +422,15 @@ div.sidebar .container{
 div.footer {
   background: #40372F;
   color: white;
+  text-align: center;
 }
 
-p.footer {
+div.footer p {
   margin-top: 1em;
   text-align: center;
 }
 
-p.footer img{
+div.footer p img{
   margin-right: 1rem;
   margin-left: 1rem;
 }
@@ -555,6 +562,18 @@ p.footer img{
 .supporter.sponsor img{
   max-width: 235px;
   max-height: 100px;
+}
+
+/* GTMD15 */
+.k_messagingProfile,
+.k_footer{
+  display: none !important;
+}
+
+.groupLabel,
+.k_navigationSpan{
+  text-align: center;
+  margin-top: .5em !important;
 }
 
 /* Large */

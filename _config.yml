@@ -11,25 +11,19 @@ description: A group for civic hackers, innovative government employees, and con
 #baseurl: /path/to/blog 
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: http://opentwincities.org
+url: http://www.opentwincities.org
 
 # Default image that social media platforms should display with a page from this site
-social_image: http://opentwincities.org/images/logos/otc/otc-o512.png
-
-# Continue compiling even if there are errors. Keep it true, unless troubleshooting.
-auto: true
+social_image: http://www.opentwincities.org/images/logos/otc/otc-o512.png
 
 # Makes pretty permalinks. See Jekyll docs for alternatives.
 permalink: pretty
-
-# Use a better Markdown parser
-markdown: redcarpet
 
 exclude: [vendor]
 timezone: nil 
 
 prose:
-  siteurl: "http://opentwincities.org"
+  siteurl: "http://www.opentwincities.org"
   media: "images"
   metadata:
     _posts:
